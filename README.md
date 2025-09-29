@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Vishal More  
 
 🌱 Currently learning **Full-Stack Development**  
-💻 Aspiring **Full Stack / Game Developer**  
+💻 Aspiring Full Stack  
 ⚡ Passionate about coding, fitness, and creativity  
 
 ---
